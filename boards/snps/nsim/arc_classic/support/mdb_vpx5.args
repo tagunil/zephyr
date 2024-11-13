@@ -44,10 +44,10 @@
 	-icache=32768,128,4,a
 	-icache_version=4
 	-icache_feature=2
-	-dccm_size=0x40000
+	-dccm_size=0x100000
 	-dccm_base=0x80000000
 	-dccm_mem_cycles=1
-	-iccm0_size=0x40000
+	-iccm0_size=0x100000
 	-iccm0_base=0x00000000
 	-Xpct_counters=16
 	-Xpct_interrupt

@@ -6,8 +6,6 @@
 
 /dts-v1/;
 
-#define ICCM_SIZE DT_SIZE_K(256)
-#define DCCM_SIZE DT_SIZE_K(256)
 #define UART0_IRQ_NUM 23
 
 #include "nsim.dtsi"
